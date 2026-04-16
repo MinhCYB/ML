@@ -1,5 +1,11 @@
 # ASM 8 ML
 
+## Thành vien
+**Đặng Quang Minh** -- 0337838469
+
+## Liên hê 
+**email**: 24022397@vnu.edu.vn
+
 ## 1. K-Means Clustering
 Thuật toán phân chia dữ liệu thành $k$ cụm cố định dựa trên khoảng cách.
 
