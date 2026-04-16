@@ -3,7 +3,7 @@
 ## Thành vien
 **Đặng Quang Minh** -- 0337838469
 
-## Liên hê 
+## Liên hệ
 **email**: 24022397@vnu.edu.vn
 
 ## 1. K-Means Clustering
