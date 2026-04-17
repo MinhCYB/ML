@@ -1,7 +1,7 @@
 # ASM 8 ML
 
 ## Thành vien
-**Đặng Quang Minh** -- 0337838469
+**Đặng Quang Minh** -- 24022397
 
 ## Liên hệ
 **email**: 24022397@vnu.edu.vn
